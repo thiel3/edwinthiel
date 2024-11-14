@@ -56,3 +56,21 @@ footer a {
 footer a:hover {
     text-decoration: underline;
 }
+
+/* Social Links Styling */
+.social-links {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-top: 10px;
+}
+
+.social-links a {
+    color: #0077cc;
+    font-size: 24px;
+    transition: color 0.3s ease;
+}
+
+.social-links a:hover {
+    color: #005fa3;
+}
