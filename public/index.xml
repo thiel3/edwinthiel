@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Edwin Thiel</title>
+    <link>https://edwinthiel.com/</link>
+    <description>Recent content on Edwin Thiel</description>
+    <generator>Hugo -- 0.139.4</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 23 Dec 2024 06:52:18 -0400</lastBuildDate>
+    <atom:link href="https://edwinthiel.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://edwinthiel.com/about/about/</link>
+      <pubDate>Mon, 23 Dec 2024 06:52:18 -0400</pubDate>
+      <guid>https://edwinthiel.com/about/about/</guid>
+      <description>&lt;h1 id=&#34;about-me&#34;&gt;About Me&lt;/h1&gt;
+&lt;p&gt;Hello! I&amp;rsquo;m &lt;strong&gt;Edwin Thiel&lt;/strong&gt;, an IT Professional. Welcome to my personal space on the web!&lt;/p&gt;
+&lt;h2 id=&#34;skills-and-expertise&#34;&gt;Skills and Expertise&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Modern Workplace Support&lt;/strong&gt;:&lt;br&gt;
+Experience implementing and supporting modern workplace environments, leveraging tools like Azure and Office 365.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Network Infrastructure&lt;/strong&gt;:&lt;br&gt;
+Design, implementation, and maintenance of hardware firewalls, VLANs, and VPNs.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Virtualization&lt;/strong&gt;:&lt;br&gt;
+Expertise in VMware, Microsoft Hyper-V, and Azure environments.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Communication Systems&lt;/strong&gt;:&lt;br&gt;
+PBX migrations, VoIP setups, and remote user connectivity.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Basic Coding and Web Development&lt;/strong&gt;:&lt;br&gt;
+Experience with HTML, CSS, and JavaScript, demonstrated by:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>https://edwinthiel.com/posts/my-first-post/</link>
+      <pubDate>Sat, 21 Dec 2024 10:53:50 -0400</pubDate>
+      <guid>https://edwinthiel.com/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;
+&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
