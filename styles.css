@@ -65,6 +65,14 @@
       font-size: 55%;
     }
   }
+
+  /* Responsive Profile Picture */
+@media (max-width: 600px) {
+    .profile-pic {
+        width: 120px; /* Smaller size on mobile */
+        height: 120px;
+    }
+}
   
   /* Base styles */
   
@@ -174,6 +182,7 @@
     margin: 0 auto 20px; /* Centers the image */
     border: 3px solid #fff; /* Optional border */
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Optional shadow */
+    max-width: 100%; /* Prevents stretching */
 }
 
   
